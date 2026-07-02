@@ -1,7 +1,4 @@
 
-
-https://github.com/user-attachments/assets/b8841026-c7b2-45e7-8c91-f90492d98ffd
-
 # Qualcomm IQ9075 Digital Human Edge AI Kiosk Turnkey Solution
 
 ## Advantages of IQ9075
@@ -59,7 +56,7 @@ https://github.com/user-attachments/assets/5b77bffe-2e15-429c-a4a5-e620bcc1d4ab
 https://github.com/user-attachments/assets/91b56c1e-727b-4811-901f-43ca5bf2e8d9
 
 
-
+https://github.com/user-attachments/assets/b8841026-c7b2-45e7-8c91-f90492d98ffd
 
 
 
