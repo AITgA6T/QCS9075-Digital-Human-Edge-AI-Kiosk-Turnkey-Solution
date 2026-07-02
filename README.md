@@ -51,12 +51,7 @@ The camera and microphone capture video and audio, IQ9075 performs face and emot
 
 
 
-https://github.com/user-attachments/assets/cc5d0cd2-8ef3-4783-a92a-27033982618c
 
-
-https://github.com/user-attachments/assets/23677436-2632-41a4-a90b-7a4c1a94bc46
-
-https://github.com/user-attachments/assets/93e2d5f6-5d72-4281-ba24-07ed9cf1103b
 
 
 
